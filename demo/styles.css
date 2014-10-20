@@ -1,0 +1,55 @@
+body {
+	color:#000000;
+	font-family:"Helvetica",Helvetica,Arial,Verdana,Lucida,Tahoma,sans-serif;
+	font-size:16px;
+}
+
+a,
+a:visited {
+	color:orange;
+	font-weight:bold;
+	text-decoration:none;
+}
+a:hover {
+	text-decoration:underline;
+}
+a:active {
+	color:pink;
+}
+
+p {
+	font-size:16px;
+	line-height:22px;
+	margin-bottom:22px;
+}
+
+article {
+	width:960px;
+	padding:20px;
+}
+
+h1 {
+	font-size:48px;
+	line-height:64px;
+	margin-bottom:12px;
+	margin-top:0;
+}
+
+h6 {
+	font-size:14px;
+	color:#666666;
+	font-style:italic;
+}
+
+div {
+	border-top:2px solid #c2c3c6;
+}
+
+
+
+
+
+
+
+
+
